@@ -32,7 +32,7 @@ If you're interested in talking, please send me a message to connect!
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
+<p><img src="https://github-profile-trophy.vercel.app/?username=MauricioPerera">
 </p>
 
 ## 📊 Github Status

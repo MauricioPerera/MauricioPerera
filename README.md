@@ -17,22 +17,3 @@ If you're interested in talking, please send me a message to connect!
 <p>All of my projects are available at <a href="https://rckflr.com/">Rckflr Blog</a></p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/mauricioperera/">here</a></p>
 <p>⚡ Fun Fact: Dato curioso Me encanta la comedia y aprendo magia (pero soy un mago realmente malo). Intento tocar la batería y practicar Iaido (esgrima japonesa)</p>
-
-## 💻 Skills
-<p>
-</p>
-
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=MauricioPerera">
-</p>
-
-## 📊 Github Status
